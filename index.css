@@ -1,0 +1,48 @@
+#canvas{
+    display:block;
+    margin:0 auto;
+}
+.control{
+    margin:10px auto 0;
+}
+.color{
+    float:left;
+}
+.color-btn{
+    display:inline-block;
+    width:25px;
+    height:25px;
+    margin-right:10px;
+}
+#black-btn{
+    background-color:black;
+}
+#red-btn{
+    background-color:red;
+}
+#yellow-btn{
+    background-color:yellow;
+}
+#blue-btn{
+    background-color:blue;
+}
+#green-btn{
+    background-color:green;
+}
+.select-btn{
+    border:1px solid #2ed;
+}
+#clear{
+    float:right;
+    width:50px;
+    height:25px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    line-height:25px;
+    text-decoration: none;
+    color:#333;
+}
+.clearfix{
+    clear:both;
+}
